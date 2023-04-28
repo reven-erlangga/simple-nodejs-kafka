@@ -1,0 +1,13 @@
+{
+  "name": "simple-nodejs-kafka",
+  "version": "1.0.0",
+  "description": "Simple example from implementation kafka in node JS",
+  "main": "index.js",
+  "scripts": {
+    "start:consumer": "node ./consumer/index.js",
+    "start:producer": "node ./producer/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
